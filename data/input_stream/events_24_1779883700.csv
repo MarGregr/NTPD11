@@ -1,0 +1,5 @@
+event_time,user_id,category,amount,status
+2026-05-27 14:08:20,u959,books,357.66,pending
+2026-05-27 14:08:20,u494,electronics,310.44,pending
+2026-05-27 14:08:20,u634,electronics,379.01,pending
+2026-05-27 14:08:20,u360,clothing,343.85,paid

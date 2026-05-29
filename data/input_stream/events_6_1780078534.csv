@@ -1,0 +1,5 @@
+event_time,user_id,category,amount,status
+2026-05-29 20:15:34,u289,home,330.42,cancelled
+2026-05-29 20:15:34,u157,books,292.46,cancelled
+2026-05-29 20:15:34,u495,sports,22.89,cancelled
+2026-05-29 20:15:34,u427,home,36.28,pending

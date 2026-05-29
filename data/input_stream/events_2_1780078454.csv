@@ -1,0 +1,5 @@
+event_time,user_id,category,amount,status
+2026-05-29 20:14:14,u454,electronics,389.72,paid
+2026-05-29 20:14:14,u286,home,290.43,pending
+2026-05-29 20:14:14,u919,electronics,189.17,pending
+2026-05-29 20:14:14,u945,sports,382.85,pending
